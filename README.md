@@ -6,7 +6,6 @@ Welcome to my Responsive Web Design Projects repository! This collection showcas
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Cat Photo App](#cat-photo-app)
 
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
