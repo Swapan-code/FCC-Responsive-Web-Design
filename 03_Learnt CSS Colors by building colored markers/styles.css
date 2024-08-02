@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    padding: 10px 0; 
+    background-color: rgb(255, 255, 255);
+    /* First value is padding-top and padding-bottom */
+    /* Second value is padding-left and padding-right */
+}
+
+.marker{
+    height: 25px;
+    width: 200px;
+    margin: 10px auto;    
+}
+
+.cap, .sleeve{
+    display: inline-block;
+}
+
+.cap{
+    width: 30%;
+    height: 25px;
+}
+
+.sleeve{
+    width: 110px;
+    height: 25px;
+
+    /* border-left-width: 10px; */
+    /* border-left-style: double; */
+    /* border-left-color: black; */
+    border-left: double 10px rgba(0,0,0,0.75); /* One liner for above 3 lines */
+
+    background-color: rgba(255,255,255,0.5);
+    /* a is alpha channel, it sets opacity */
+    /* (0 for transparent, 1 for opaque) */
+}
+
+.red{
+    background: linear-gradient(180deg, rgb(122,74,14), rgb(245,62,113), rgb(162,27,27));
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+    /* offsetX, offsetY, blurRadius, spreadRadius, color */
+}
+
+.green{
+    background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
+    box-shadow: 0 0 20px 0 #3B7E20CC;
+}
+
+.blue{
+    /* hue(0-red,120-green,240-blue) */
+    /* saturation(0%-grey, 100%-pure color)  */
+    /* lightness(0%-black, 100%-white, 50%-neutral) */ 
+
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
+}
