@@ -16,8 +16,8 @@ This repository contains several projects that demonstrate my ability to create 
 
 ## Projects
 
-### Cat Photo App
-
+### - Cat Photo App
+### - Cafe Menu
 
 ## Technologies Used
 
