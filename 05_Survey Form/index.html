@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1 id="title">Client Feedback Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve our services</p>
+    <div class="container">
+        <form id="survey-form">
+            <label id="name-label" for="name">NAME: <input class="question" id="name" type="text"
+                    placeholder="Enter Your Name" required class="block"> </label>
+            <label id="email-label" for="email">EMAIL: <input class="question" id="email" type="email"
+                    placeholder="Enter Your Email" required class="block"></label>
+            <label id="number-label" for="number">AGE: <input class="question" id="number" type="number" min="3"
+                    max="130" placeholder="Enter Your Age" required class="block"></label>
+
+            <label for="dropdown">Are you satisfied with our services?
+                <select class="block question" required name="" id="dropdown">
+                    <option disabled selected value="">select one</option>
+                    <option value="1">satisfied</option>
+                    <option value="2">neutral</option>
+                    <option value="3">unsatisfied</option>
+                </select>
+            </label>
+
+            <fieldset class="question">
+                <legend>Where did you hear about our company?</legend>
+
+                <label class="block radio" for="web"><input id="web" value="website" name="common" type="radio"
+                        checked>Website</label>
+                <label class="block radio" for="sm"><input id="sm" value="social-media" name="common"
+                        type="radio">Social Media</label>
+                <label class="block radio" for="friend"><input id="friend" value="friends" name="common"
+                        type="radio">Friends</label>
+            </fieldset>
+
+            <fieldset class="question">
+                <legend>
+                    What aspects of our product/service do you find most valuable? <br> (Check all that apply)
+                </legend>
+
+                <label class="block radio" for="checkbox1">
+                    <input id="checkbox1" name="aspect" value="quality" type="checkbox">Quality
+                </label>
+                <label class="block radio" for="checkbox2">
+                    <input id="checkbox2" name="aspect" value="price" type="checkbox">Price
+                </label>
+                <label class="block radio" for="checkbox3">
+                    <input id="checkbox3" name="aspect" value="customer-service" type="checkbox">Customer Service
+                </label>
+                <label class="block radio" for="checkbox4">
+                    <input id="checkbox4" name="aspect" value="ease-of-use" type="checkbox">Ease of Use
+                </label>
+            </fieldset>
+
+            <label for="comments" class="block question">Any suggestions/comments to improve our services?<textarea
+                    name="comments" id="comments" rows="6" cols="60"
+                    placeholder="Enter your comment here..."></textarea></label>
+
+            <button id="submit" type="submit">Submit</button>
+
+        </form>
+    </div>
+
+</body>
+
+</html>
