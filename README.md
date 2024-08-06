@@ -16,9 +16,17 @@ This repository contains several projects that demonstrate my ability to create 
 
 ## Projects
 
-- ### Cat Photo App
-- ### Cafe Menu
-- ### Set of Colored Markers
+1. ### Cat Photo App [HTML]
+2. ### Cafe Menu [Basic CSS]
+3. ### Set of Colored Markers [CSS Colors]
+4. ### Registration Form [HTML Forms]
+5. ### Survey Form [Certification Project #1]
+6. ### Rothko Painting [CSS Box Model]
+7. ### Photo Gallery [CSS Flexbox]
+8. ### Nutrition Label [Typography]
+9. ### Quiz webpage [Accessibility]
+10. ### Tribute Page [Certification Project #2]
+11. ### Balance Sheet [CSS Pseudo Selectors]
 
 ## Technologies Used
 
