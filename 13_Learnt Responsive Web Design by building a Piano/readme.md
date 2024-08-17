@@ -7,7 +7,9 @@ Preview:
 <br>
 ![preview_image](image-1.png)
 <br>
+<br>
 ![preview_image2](image.png)
+<br>
 <br>
 ![preview_image3](image-2.png)
 

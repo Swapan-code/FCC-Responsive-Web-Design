@@ -28,6 +28,7 @@ This repository contains several projects that demonstrate my ability to create 
 10. ### Tribute Page [Certification Project #2]
 11. ### Balance Sheet [CSS Pseudo Selectors]
 12. ### Cat Painting [CSS Positioning]
+13. ### Piano [Responsive Web Design]
 
 ## Technologies Used
 
