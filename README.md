@@ -37,6 +37,7 @@ This repository contains several projects that demonstrate my ability to create 
 - CSS3
 - Flexbox
 - CSS Grid
+- Responsive Web Design
 - ARIA (Accessible Rich Internet Applications)
 
 ## How to Use
