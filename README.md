@@ -27,6 +27,7 @@ This repository contains several projects that demonstrate my ability to create 
 9. ### Quiz webpage [Accessibility]
 10. ### Tribute Page [Certification Project #2]
 11. ### Balance Sheet [CSS Pseudo Selectors]
+12. ### Cat Painting [CSS Positioning]
 
 ## Technologies Used
 
