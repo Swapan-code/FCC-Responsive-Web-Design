@@ -1,0 +1,1 @@
+In this Project, I built a Technical Documentation Page to serve as instruction or reference for JavaScript.

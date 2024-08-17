@@ -29,7 +29,7 @@ This repository contains several projects that demonstrate my ability to create 
 11. ### Balance Sheet [CSS Pseudo Selectors]
 12. ### Cat Painting [CSS Positioning]
 13. ### Piano [Responsive Web Design]
-14. ### Technical Documentation Page [[Certification Project #3]]
+14. ### Technical Documentation Page [Certification Project #3]
 
 ## Technologies Used
 
